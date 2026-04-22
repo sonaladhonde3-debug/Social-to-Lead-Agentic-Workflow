@@ -10,7 +10,7 @@ An AI-powered conversational agent that converts social media inquiries into qua
 
 - [How to Run Locally](#how-to-run-locally)
 - [Architecture Explanation](#architecture-explanation)
-- [WhatsApp Deployment via Webhooks](#whatsapp-deployment-via-webhooks)
+- [WhatsApp Deployment via Webhook](#whatsapp-deployment-via-webhook)
 
 ---
 

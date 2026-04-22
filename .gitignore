@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

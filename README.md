@@ -1,4 +1,4 @@
-# Social-to-Lead Agentic Workflow
+# AutoStream
 
 An AI-powered conversational agent that converts social media inquiries into qualified leads. Built with **LangGraph** and **Groq (LLaMA 3.1 8B)**, the agent handles the full sales funnel — greeting, product Q&A (via RAG), objection handling, and multi-turn lead capture — in a single stateful conversation.
 
